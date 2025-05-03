@@ -1,3 +1,6 @@
+https://github.com/sophiequestion/webcoding
+Kérdy Zsófi
+
 # Almodóvar Tribute Site
 
 A static, responsive portfolio-style website celebrating the work of Spanish filmmaker Pedro Almodóvar. Features a hero section, bio, film gallery with lightbox and captions, a filmography table, and a contact form powered by EmailJS.
