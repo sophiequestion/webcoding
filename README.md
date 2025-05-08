@@ -1,5 +1,5 @@
 URL: [https://github.com/sophiequestion/webcoding](https://sophiequestion.github.io/webcoding/)
-Source of codes: UI in Figma, with Anima plug in I downloaded the CSS+HTML and HTML codes, and it generated the site (with bugs), like there was no picture only the placeholder, checked the bugs and fix them (I got help in javascript part a bit)
+Source of codes: UI in Figma, with Anima plug in I downloaded the CSS+HTML and HTML codes, and it generated the site (with bugs), like there was no picture only the placeholder, checked the bugs and fix them (I got help in javascript part a bit from a friend)
 Source of images
 What kind of js code did you use: Emailjs for the contact form
 What kind of font did you use: Borel, Roboto and Yarndings 12
