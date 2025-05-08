@@ -1,0 +1,62 @@
+:root {
+    --text-regular-normal-font-family: "Roboto", Helvetica;
+    --text-regular-normal-font-weight: 400;
+    --text-regular-normal-font-size: 16px;
+    --text-regular-normal-letter-spacing: 0px;
+    --text-regular-normal-line-height: 150%;
+    --text-regular-normal-font-style: normal;
+    --text-medium-normal-font-family: "Roboto", Helvetica;
+    --text-medium-normal-font-weight: 400;
+    --text-medium-normal-font-size: 18px;
+    --text-medium-normal-letter-spacing: 0px;
+    --text-medium-normal-line-height: 150%;
+    --text-medium-normal-font-style: normal;
+    --heading-desktop-tagline-font-family: "Roboto", Helvetica;
+    --heading-desktop-tagline-font-weight: 600;
+    --heading-desktop-tagline-font-size: 16px;
+    --heading-desktop-tagline-letter-spacing: 0px;
+    --heading-desktop-tagline-line-height: 150%;
+    --heading-desktop-tagline-font-style: normal;
+    --text-large-bold-font-family: "Roboto", Helvetica;
+    --text-large-bold-font-weight: 700;
+    --text-large-bold-font-size: 20px;
+    --text-large-bold-letter-spacing: 0px;
+    --text-large-bold-line-height: 150%;
+    --text-large-bold-font-style: normal;
+    --text-regular-semi-bold-font-family: "Roboto", Helvetica;
+    --text-regular-semi-bold-font-weight: 600;
+    --text-regular-semi-bold-font-size: 16px;
+    --text-regular-semi-bold-letter-spacing: 0px;
+    --text-regular-semi-bold-line-height: 150%;
+    --text-regular-semi-bold-font-style: normal;
+    --text-small-normal-font-family: "Roboto", Helvetica;
+    --text-small-normal-font-weight: 400;
+    --text-small-normal-font-size: 14px;
+    --text-small-normal-letter-spacing: 0px;
+    --text-small-normal-line-height: 150%;
+    --text-small-normal-font-style: normal;
+    --text-small-link-font-family: "Roboto", Helvetica;
+    --text-small-link-font-weight: 400;
+    --text-small-link-font-size: 14px;
+    --text-small-link-letter-spacing: 0px;
+    --text-small-link-line-height: 150%;
+    --text-small-link-font-style: normal;
+    --color-schemes-color-scheme-1-text: var(
+      --primitives-color-neutral-darkest-duplicate
+    );
+    --color-schemes-color-scheme-1-text-duplicate: var(
+      --primitives-color-neutral-darkest
+    );
+    --color-schemes-color-scheme-1-border: var(--primitives-color-neutral-darkest);
+    --color-schemes-color-scheme-1-foreground: var(--primitives-color-white);
+    --color-schemes-color-scheme-1-background: var(
+      --primitives-color-white-duplicate
+    );
+    --color-schemes-color-scheme-1-background-duplicate: var(
+      --primitives-color-white
+    );
+    --primitives-color-white: rgba(255, 255, 255, 1);
+    --primitives-color-neutral-darkest: rgba(0, 0, 0, 1);
+    --primitives-color-neutral-darkest-duplicate: rgba(0, 0, 0, 1);
+    --primitives-color-white-duplicate: rgba(255, 255, 255, 1);
+  }
